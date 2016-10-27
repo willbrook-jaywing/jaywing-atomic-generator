@@ -1,0 +1,9 @@
+.idea/
+.DS_Store
+.publish
+public
+Desktop.ini
+node_modules/generator-jaywing-atomic/node_modules
+notes.txt
+npm-debug.log
+logs
